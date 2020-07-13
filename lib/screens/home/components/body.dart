@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:shopingcart/constants.dart';
-import 'package:shopingcart/screens/home/categories.dart';
+import 'package:shopingcart/screens/home/components/categories.dart';
 
 class Body extends StatelessWidget {
   const Body({

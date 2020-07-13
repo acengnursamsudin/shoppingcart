@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:shopingcart/constants.dart';
-import 'package:shopingcart/screens/home/body.dart';
+import 'package:shopingcart/screens/home/components/body.dart';
 
 void main() {
   runApp(MyApp());
